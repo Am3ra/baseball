@@ -1,3 +1,4 @@
 *.ROS
 *.EVA
 *.EVN
+.vscode/settings.json
